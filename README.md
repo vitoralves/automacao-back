@@ -8,4 +8,4 @@ Imagem da montagem dos componentes, desenvolvido no app Fritzing, não foi poss�
 
 # Funcionamento
 A placa arduino cria uma api para ser consumida por métodos GET.
-Para facilitar o uso com maior mobilidade, um aplicativo foi criado para interagir com a placa arduino **https://github.com/vitoralves/automacao-front/.
+Para facilitar o uso com maior mobilidade, um aplicativo foi criado para interagir com a placa arduino **https://github.com/vitoralves/automacao-front/**
